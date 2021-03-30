@@ -1,2 +1,2 @@
 # hello
-firt git repo
+first git repo
